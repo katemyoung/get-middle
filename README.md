@@ -26,5 +26,5 @@ Self-reflections
 - tdd instead of use irb e.g.g for the get length?
 
 Questions
-- [ ]how do you refer to self or main object in a test?
+- [ ] how do you refer to self or main object in a test?
 - [x] is there an RSpec matcher that does data style e.g. `to_be string?` Yes: `be_an_instance_of(klass)` and `be_a_kind_of(klass) 
